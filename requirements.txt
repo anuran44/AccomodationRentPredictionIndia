@@ -1,0 +1,3 @@
+numpy==1.22.3+mkl
+Pillow==9.1.1
+streamlit==1.10.0
